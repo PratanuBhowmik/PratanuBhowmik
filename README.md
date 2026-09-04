@@ -1,103 +1,244 @@
-# Hi 👋, I'm Pratanu
+<div align="center">
 
-### Full Stack Developer | Web Developer | Programmer
+# 👋 Hi, I'm Pratanu Bhowmik
 
-I'm a passionate developer interested in building modern web applications.
+### 💻 Aspiring Full Stack Developer | Web Developer | Problem Solver
 
-- 🌱 Currently learning Full Stack Development
-- 💻 Working with HTML, CSS, JavaScript and React
-- 🚀 Learning Node.js, Express.js and MongoDB
-- 🎯 Goal: Become a professional Full Stack Developer
-- 📫 Email: your-email@gmail.com
+<img src="https://komarev.com/ghpvc/?username=PratanuBhowmik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
-- ## 👨‍💻 About Me
+</div>
 
-- 🎓 Diploma / BCA / B.Tech Student
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Student
 - 💻 Aspiring Full Stack Developer
 - 🌱 Currently learning MERN Stack
-- 🔭 Working on web development projects
-- 🧠 Interested in problem solving
-- 🚀 Interested in building real-world applications
-- 📚 Always learning new technologies
+- 🚀 Building real-world web applications
+- 🧠 Interested in problem solving and software development
+- 🔐 Interested in backend development and REST APIs
+- 📚 Always learning and improving my skills
 
-- ## 🛠️ Tech Stack
+---
 
-### Frontend
+## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+### 🎨 Frontend
 
-### Backend
+<p align="left">
 
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-## 💻 Languages
+</p>
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+### ⚙️ Backend & Database
 
-## 🔧 Tools & Platforms
+<p align="left">
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+### 💻 Languages
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</p>
+
+---
 
 ## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
 
 ### 🛒 E-Commerce Website
 
 A full-stack e-commerce web application.
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB
+**Key Features**
 
-**Features:**
-- User authentication
-- Product management
-- Shopping cart
-- Order management
-- Responsive design
+- 🔐 User authentication
+- 🛍️ Product management
+- 🛒 Shopping cart
+- 📦 Order management
+- 🔑 Secure REST APIs
+- 📱 Responsive interface
 
-- ### 🌦️ Weather App
+**Tech Stack**
 
-A weather application that displays current weather information.
+React • Node.js • Express.js • MongoDB
 
-**Tech Stack:** HTML, CSS, JavaScript
+</td>
 
-🔗 [Live Demo](YOUR-LINK-HERE)
+<td width="50%">
 
-## 📊 GitHub Stats
+### 🌦️ Weather App
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratanuBhowmik&show_icons=true&theme=tokyonight)
+A weather application that displays real-time weather information.
 
-## 🔥 GitHub Streak
+**Key Features**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PratanuBhowmik&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+- 🔎 Search weather
+- 🌡️ Temperature information
+- 🌐 API integration
+- 📱 Responsive design
 
-## 📊 GitHub Stats
+**Tech Stack**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratanuBhowmik&show_icons=true&theme=tokyonight)
+HTML • CSS • JavaScript
 
-## 🔥 GitHub Streak
+</td>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PratanuBhowmik&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ✅ To-Do App
+
+A simple task management application.
+
+**Key Features**
+
+- ➕ Add tasks
+- 🗑️ Delete tasks
+- ✅ Complete tasks
+- 💾 Task management
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%">
+
+### 👨‍💻 Developer Portfolio
+
+A responsive personal portfolio showcasing projects and skills.
+
+**Tech Stack**
+
+React • JavaScript • Tailwind CSS
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<table>
+<tr>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=PratanuBhowmik&show_icons=true&theme=tokyonight&hide_border=false"/>
+
+</td>
+
+<td>
+
+<img src="https://streak-stats.demolab.com?user=PratanuBhowmik&theme=tokyonight&hide_border=false"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PratanuBhowmik&theme=tokyonight&no-frame=false&margin-w=10"/>
+
+</div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratanuBhowmik&layout=compact&theme=tokyonight&hide_border=false"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratanuBhowmik&theme=tokyo-night&hide_border=false"/>
+
+</div>
+
+---
 
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn](YOUR_LINKEDIN_LINK)
-- 🌐 [Portfolio](YOUR_PORTFOLIO_LINK)
-- 📧 Email: your-email@gmail.com
-- 🐙 [GitHub](https://github.com/YOUR_USERNAME)
+<div align="center">
 
-- ---
+<a href="https://github.com/PratanuBhowmik">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 💡 Build • Learn • Improve • Repeat
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Thanks for visiting my profile! 🚀
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Build • Learn • Improve • Repeat
+
+**Thanks for visiting my profile! 👋**
+
+</div>
