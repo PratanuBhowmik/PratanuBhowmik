@@ -116,29 +116,21 @@ A responsive personal portfolio website showcasing projects, skills and experien
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=PratanuBhowmik&show_icons=true&theme=tokyonight&hide_border=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PratanuBhowmik&theme=tokyonight"
   height="180"
+  alt="GitHub Stats"
 />
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=PratanuBhowmik&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=PratanuBhowmik&theme=tokyonight&hide_border=true"
   height="180"
+  alt="GitHub Streak"
 />
 
-</p>
-
-
-<p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratanuBhowmik&layout=compact&theme=tokyonight&hide_border=true"
-  height="180"
-/>
-
-</p>
+<br/><br/>
 
 
 ## 🤝 Connect With Me
@@ -149,7 +141,7 @@ A responsive personal portfolio website showcasing projects, skills and experien
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/pratanu-bhowmik2005">
+<a href="https://www.linkedin.com/in/pratanu-bhowmik2005/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
