@@ -77,8 +77,15 @@ A weather application that displays current weather information.
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PratanuBhowmik&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PratanuBhowmik&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratanuBhowmik&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=PratanuBhowmik&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 ## 🤝 Connect With Me
 
