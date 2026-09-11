@@ -112,6 +112,8 @@ A simple task management application.
 A responsive personal portfolio website showcasing projects, skills and experience.
 
 **Technologies:** HTML, CSS, & JavaScript,
+### 🌐 Live Demo
+[View My Portfolio](https://my-portfolio-seven-jade-98.vercel.app/)
 
 
 ## 📊 GitHub Statistics
