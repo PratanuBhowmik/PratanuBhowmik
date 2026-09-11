@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
+- 🎓 Bachelor of Computer Applications (MAKAUT)
 - 💻 Aspiring Full Stack Developer
 - 🌱 Currently learning MERN Stack
 - 🚀 Building real-world web applications
@@ -111,7 +111,7 @@ A simple task management application.
 
 A responsive personal portfolio website showcasing projects, skills and experience.
 
-**Technologies:** React, JavaScript, Tailwind CSS
+**Technologies:** HTML, CSS, & JavaScript,
 
 
 ## 📊 GitHub Statistics
